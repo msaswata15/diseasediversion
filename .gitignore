@@ -1,0 +1,19 @@
+# Ignore virtual environments
+myenv/
+.venv/
+env/
+Lib/
+Include/
+Scripts/
+bin/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore OS-specific files
+.DS_Store
+
+# Ignore dependency folders
+node_modules/
